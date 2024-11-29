@@ -18,7 +18,7 @@ reference_audio_paths = [
 ]
 
 # The text you want to synthesize
-text = "LET'S GO THIS IS SUPER VEGITO!!!!"
+text = "Super Vegito"
 language = "en"  # Choose the language corresponding to your reference audio
 
 # Generate speech and save it to a file
